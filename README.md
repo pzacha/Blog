@@ -2,7 +2,7 @@
 > Simple blog.
 
 ## General info
-Simple blog in order to learn flask framework.
+Simple blog to learn flask framework.
 
 ## Screenshots
 TODO
