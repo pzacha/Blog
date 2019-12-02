@@ -1,11 +1,20 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>
 
-        </title>
-    </head>
-    <body>
-        <h1>About Page</h1>
-    </body>
+<head>
+    {% if title %}
+    <title>
+        Flask Blog - {{ title }}
+    </title>
+    {% else %}
+    <title>
+        Flask Blog
+    </title>
+    {% endif %}
+</head>
+
+<body>
+    <h1>About Page</h1>
+</body>
+
 </html>
