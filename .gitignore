@@ -3,3 +3,4 @@ venv
 *.json
 *.sqlite
 /.vs
+__pycache__
