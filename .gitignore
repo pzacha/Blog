@@ -4,3 +4,4 @@ venv
 *.sqlite
 /.vs
 __pycache__
+site.db
