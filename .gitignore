@@ -5,3 +5,5 @@ venv
 /.vs
 __pycache__
 site.db
+*.jpg
+*.png
