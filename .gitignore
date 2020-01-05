@@ -6,4 +6,4 @@ venv
 __pycache__
 site.db
 *.jpg
-*.png
+Blog/flaskblog/static/profile_pics/*

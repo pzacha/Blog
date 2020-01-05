@@ -1,14 +1,30 @@
 # Project Name
-> Simple blog.
+> Blog
 
 ## General info
-Simple blog to learn flask framework.
+Simple blog to learn flask framework. It includes among others:
+* User authentication
+* Posts handling (create/update/delete)
+* Storing posts and accounts inside a database
+* Pagination
+
 
 ## Screenshots
-TODO
+Home page:
+![home](./img/home.png)
+
+Home page:
+![login](./img/login.png)
+
+Home page:
+![account](./img/account.png)
 
 ## Technologies
-* flask
+* python 3.8.0
+	* flask 1.1.1
+	* SQLAlchemy
+* Bootstrap 4.0.0
+
 
 ## Status
 Project is: _in progress_
