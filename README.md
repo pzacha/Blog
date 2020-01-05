@@ -11,13 +11,13 @@ Simple blog to learn flask framework. It includes among others:
 
 ## Screenshots
 Home page:
-![home](/img/home.png)
+![home](/img/home.PNG)
 
 Login page:
-![login](/img/login.png)
+![login](/img/login.PNG)
 
 Account page:
-![account](/img/account.png)
+![account](/img/account.PNG)
 
 ## Technologies
 * python 3.8.0
