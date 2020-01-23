@@ -2,7 +2,7 @@
 > Blog
 
 ## General info
-Simple blog to learn flask framework. It includes among others:
+Simple blog. It includes among others:
 * User authentication
 * Posts handling (create/update/delete)
 * Storing posts and accounts inside a database
