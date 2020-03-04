@@ -1,5 +1,5 @@
 # Blog
-> Blog created using Flask.
+> Blog created with Flask.
 
 ## General info
 Simple blog. It includes among others:
