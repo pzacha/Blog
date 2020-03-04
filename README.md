@@ -1,12 +1,12 @@
-# Project Name
-> Blog
+# Blog
+> Blog created using Flask.
 
 ## General info
 Simple blog. It includes among others:
-* User authentication
-* Posts handling (create/update/delete)
-* Storing posts and accounts inside a database
-* Pagination
+* User authentication.
+* Posts handling (create/update/delete).
+* Storing posts and accounts inside a database.
+* Pagination.
 
 
 ## Screenshots
